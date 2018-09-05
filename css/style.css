@@ -1,0 +1,23 @@
+html,
+body {
+  
+background: #7b4397;
+background: -webkit-linear-gradient(to right, #dc2430, #7b4397);
+background: linear-gradient(to right, #dc2430, #7b4397);
+
+}
+.container {
+  font-family:sans-serif;
+  height: 100%;
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+.text {
+  font-weight: 100;
+  font-size: 28px;
+  color: white;
+}
+.dud {
+  color:black;
+}
